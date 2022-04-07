@@ -1,7 +1,7 @@
 # httpwaf
 
 #### 一 、介绍
-httpwaf是一款永久免费的web应用防火墙，专注未知攻击对抗，是业界最好用的waf。
+httpwaf是一款永久免费的web应用防火墙，专注未知攻击对抗，也可以开源，是业界最好用的waf。
 
 #### 二 、两种安装架构
 ##### 1、直接安装在WEB服务器上
@@ -30,7 +30,7 @@ httpwaf是一款永久免费的web应用防火墙，专注未知攻击对抗，�
 
 实战地址 [http://59.110.1.135/httpwaf/](http://59.110.1.135/httpwaf/)
 
-#### 五、扫一扫加作者微信号httpwaf
+#### 五、源码部署请加微信号httpwaf
 
 ![](https://gitee.com/httpwaf/httpwaf/raw/master/img/wechat.png)
 
