@@ -1,7 +1,7 @@
 # httpwaf
 
 #### Description
-httpwaf是一款永久免费的web应用防火墙。
+httpwaf is an free web application firewall.
 
 #### Software Architecture
 Software architecture description
