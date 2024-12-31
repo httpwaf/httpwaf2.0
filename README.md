@@ -30,10 +30,14 @@ httpwaf是一款永久免费的web应用防火墙，专注未知攻击对抗，�
 
 实战地址 [http://101.42.31.94/](http://101.42.31.94/)
 
-#### 五、源码部署请加微信号httpwaf
-更多产品 [http://101.42.31.94:9998/prochtml/open_source.html](http://101.42.31.94:9998/prochtml/open_source.html)
+#### 五、更多产品介绍
+
+ [http://101.42.31.94:9998/prochtml/open_source.html](http://101.42.31.94:9998/prochtml/open_source.html)
+
+#### 六、源码部署请加微信号httpwaf
+
 ![](https://gitee.com/httpwaf/httpwaf/raw/master/img/wechat.png)
 
-#### 六、来一张首页图片
+#### 七、来一张首页图片
 
 ![](https://gitee.com/httpwaf/httpwaf/raw/master/img/home.png)
