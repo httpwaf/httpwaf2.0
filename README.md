@@ -28,11 +28,11 @@ httpwaf是一款永久免费的web应用防火墙，用AI+规则+语义分析对
 
 #### 四、实战演示地址
 
-实战地址 [http://101.42.31.94/](http://101.42.31.94/)
+实战地址 [http://39.106.251.213/](http://39.106.251.213/)
 
 #### 五、更多产品演示
 
- [http://101.42.31.94:9998/prochtml/open_source.html](http://101.42.31.94:9998/prochtml/open_source.html)
+ [http://39.106.251.213:9998/prochtml/open_source.html](http://39.106.251.213:9998/prochtml/open_source.html)
 
 #### 六、源码部署请加微信号httpwaf
 
