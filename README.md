@@ -20,24 +20,20 @@ httpwaf是一款永久免费的web应用防火墙，用AI+规则+语义分析对
 #### 三、安装教程
 支持Linux x86 64位原生系统(arm暂不开放)，保证可以上网，并且80、443和9999端口没有被占用，以root权限运行下面命令：
 
-1、 chmod +x ./himonitor
+1、   wget http://39.106.251.213/httpwaf
 
-2 、 ./himonitor  (每天限10个下载体验，超过报0x100错误禁止下载）
+2 、  chmod +x ./httpwaf (每天限10个下载体验，超过报0x100错误禁止下载）
 
-3 、 推荐centos，更多请看详细帮助手册,免费版没加载安全保护，web管理口9999禁止暴露在互联网。
+3 、  ./httpwaf 运行即可推荐centos，更多请看详细帮助手册,免费版没加载安全保护，web管理口9999禁止暴露在互联网。
 
 #### 四、实战演示地址
 
 实战地址 [http://39.106.251.213/](http://39.106.251.213/)
 
-#### 五、更多产品演示
-
- [http://39.106.251.213:9998/prochtml/open_source.html](http://39.106.251.213:9998/prochtml/open_source.html)
-
-#### 六、源码部署请加微信号httpwaf
+#### 五、源码部署请加微信号httpwaf
 
 ![](https://gitee.com/httpwaf/httpwaf/raw/master/img/wechat.png)
 
-#### 七、来一张首页图片
+#### 六、来一张首页图片
 
 ![](https://gitee.com/httpwaf/httpwaf/raw/master/img/home.png)
